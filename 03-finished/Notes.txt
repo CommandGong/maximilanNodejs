@@ -1,0 +1,2 @@
+This folder is about how to debug
+- the .vscode is config that makes debug restart automatically when code changed.
